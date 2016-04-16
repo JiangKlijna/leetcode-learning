@@ -1,14 +1,14 @@
-#LeetCode Problems' Solutions
+#LintCode Problems' Solutions
 
 :fire:jiangKlijna
 
-[https://leetcode.com/](https://leetcode.com/)
+[http://www.lintcode.com/zh-cn/problem/](http://www.lintcode.com/zh-cn/problem/)
 
 ```
-// Source : https://leetcode.com/problems/
+// Source : https://www.lintcode.com/zh-cn/problem/
 // Author : jiangKlijna
 /*
 *
 */
-git commit -m ':hushed:New Problem ""'
+git commit -m ':hushed:New Problem '
 ```
