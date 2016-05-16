@@ -1,4 +1,4 @@
-#LintCode Problems' Solutions
+#LeetCode Problems' Solutions
 
 :fire:jiangKlijna
 
