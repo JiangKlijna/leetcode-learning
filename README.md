@@ -2,11 +2,10 @@
 
 :fire:jiangKlijna
 
-[http://www.lintcode.com/zh-cn/problem/](http://www.lintcode.com/zh-cn/problem/)
+[https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
 
 ```
-// Source : https://www.lintcode.com/zh-cn/problem/
-// Author : jiangKlijna
+// Source : https://leetcode.com/problemset/algorithms/
 /*
 *
 */
