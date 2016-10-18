@@ -9,5 +9,17 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
+  map = {};
+  for (let i = 0;i<nums.length;i++) {
+    let v = nums[i];
+    let data = map[v];
+    if (data != null) {
+      if (data < i) {
+        return [data, i];
+      }
+    } else {
+      map[target-v] = i;
+    }
+  }
 
 };
