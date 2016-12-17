@@ -4,10 +4,11 @@
 
 [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
 * Programing language
-  * java
-  * python
-  * javascript
-  * go
+  * java8
+  * python3.5
+  * nodejs6.9
+  * go1.7
+  * swift3
 
 ```
 /**
