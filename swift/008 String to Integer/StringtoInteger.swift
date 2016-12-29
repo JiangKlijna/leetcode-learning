@@ -11,11 +11,10 @@ class Solution {
             istr.append(Int(i))
         }
         let c_add = 43, c_minus = 45, c_space = 32, c_0 = 48, c_9 = 57
-        var i = 0
+        var i = 0, signal = 1, re = 0
         while i < n && istr[i] == c_space {
             i += 1
         }
-        var signal = 1, re = 0
         if istr[i] == c_add {
             i += 1
         } else if istr[i] == c_minus {
