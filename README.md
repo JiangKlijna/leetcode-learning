@@ -5,10 +5,10 @@
 [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
 * Programing language
   * java8
-  * python3.5
-  * nodejs6.9
-  * go1.7
-  * swift3
+  * python3.6
+  * nodejs8.9
+  * go1.9
+  * kotlin1.2
 
 ```
 /**
